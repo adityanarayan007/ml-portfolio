@@ -11,7 +11,7 @@ Here, I’ll share weekly projects, experiments, and blogs as I build skills in 
 ---
 
 ## ✍️ Blogs
-0.This will be updated soon.
+0. [My 'Hello World' Blog](https://medium.com/@aiwithaditya/understanding-ai-one-simple-story-at-a-time-d5ae679183f4)
 
 ---
 
