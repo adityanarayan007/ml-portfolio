@@ -20,9 +20,9 @@ In Week 1, I focused on building foundations and applying them through **two cla
 
 ## ✍️ Blogs for Week 1  
 I documented my journey and learnings on **Medium**:  
-- [My AI/ML Transition: Kickoff & Setup](your-medium-link)  
-- [From Folktales to Future Tech: Understanding AI the Vikram–Vetal]([your-medium-link](https://medium.com/@aiwithaditya/from-folktales-to-future-tech-understanding-ai-the-vikram-vetal-way-0cdf6e0954fe))  
-- [Titanic Data Exploration: The Simplest Way with Machine Learning (Using Python)]([your-medium-link](https://medium.com/@aiwithaditya/titanic-data-exploration-the-simplest-way-with-machine-learning-using-python-371311159c35))  
+- [Understanding AI, One Simple Story at a Time](https://medium.com/@aiwithaditya/understanding-ai-one-simple-story-at-a-time-d5ae679183f4)  
+- [From Folktales to Future Tech: Understanding AI the Vikram–Vetal](https://medium.com/@aiwithaditya/from-folktales-to-future-tech-understanding-ai-the-vikram-vetal-way-0cdf6e0954fe) 
+- [Titanic Data Exploration: The Simplest Way with Machine Learning Using Python](https://medium.com/@aiwithaditya/titanic-data-exploration-the-simplest-way-with-machine-learning-using-python-371311159c35)  
   
 
 ---
