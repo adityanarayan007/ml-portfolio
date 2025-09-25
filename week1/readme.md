@@ -14,7 +14,7 @@ In Week 1, I focused on building foundations and applying them through **two cla
    - Predicting house prices using numerical and categorical features.  
    - [Notebook → Housing Regression](./hosuingPrice.ipynb)  
 
-👉 Raw datasets are available [Here]([.ml_portfolio/week1/datasets](https://github.com/adityanarayan007/ml-portfolio/tree/main/datasets))  
+👉 Raw datasets are available [Here](https://github.com/adityanarayan007/ml-portfolio/tree/main/datasets)
 
 ---
 
