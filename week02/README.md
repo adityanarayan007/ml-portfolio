@@ -28,7 +28,7 @@ Key Steps:
 Takeaway:
 Structured data + right preprocessing + interpretability = a powerful first step in health-based predictions.
 
-📘 Accompanying Blog: [Link to Heart Disease Blog]
+📘 Accompanying Blog: [Can Machines Help Predict Heart Disease?](https://medium.com/@aiwithaditya/can-machines-help-predict-heart-disease-98f3877159e2)
 
 
 ---
@@ -55,7 +55,7 @@ Key Steps:
 Takeaway:
 Unsupervised learning is about seeing the unseen — not prediction, but discovery.
 
-📘 Accompanying Blog: [Link to Iris Clustering Blog]
+📘 Accompanying Blog: [Clustering Flowers with KMeans and PCA](https://medium.com/@aiwithaditya/clustering-flowers-with-kmeans-and-pca-bdf33753dae9)
 
 
 ---
@@ -74,7 +74,7 @@ Outlined my roadmap for the upcoming week: implementing a basic ANN from scratch
 Takeaway:
 Before diving into big models, understand the smallest unit — the neuron.
 
-📘 Upcoming Blog: “Demystifying the Perceptron”
+📘 Story Telling Blog : [“From Thought to Code - Vikram and Vetal's Journey into Deep Learning”](https://medium.com/@aiwithaditya/from-thought-to-code-vikram-and-vetals-journey-into-deep-learning-02cff079dee5)
 
 
 ---
