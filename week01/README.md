@@ -43,4 +43,5 @@ With Week 1 done, I’m moving into **Week 2**, where I’ll explore:
 
 Stay tuned as I continue this **AI/ML transition journey**!  
 
+## [CLICK HERE](https://github.com/adityanarayan007/ml-portfolio/tree/main) TO RETURN TO MAIN PAGE
 ---
