@@ -18,6 +18,7 @@ Here, I’ll share weekly projects, experiments, and blogs as I build skills in 
 4. [Teaching Machines the Way of Humans: Machine Learning Explained by Vikram & Vetal](https://medium.com/@aiwithaditya/teaching-machines-the-way-of-humans-machine-learning-explained-by-vikram-vetal-7344378db644)
 5. [Can Machines Help Predict Heart Disease?](https://medium.com/@aiwithaditya/can-machines-help-predict-heart-disease-98f3877159e2)
 6. [Clustering Flowers with KMeans and PCA](https://medium.com/@aiwithaditya/clustering-flowers-with-kmeans-and-pca-bdf33753dae9)
+7. [“From Thought to Code - Vikram and Vetal's Journey into Deep Learning”](https://medium.com/@aiwithaditya/from-thought-to-code-vikram-and-vetals-journey-into-deep-learning-02cff079dee5)
 
 ---
 
