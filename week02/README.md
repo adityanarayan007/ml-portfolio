@@ -93,7 +93,7 @@ Before diving into big models, understand the smallest unit — the neuron.
 ➡️ Week 3: Implementing my first Neural Network, exploring regularization, and experimenting with feature selection techniques.
 ➡️ Continue writing and refining blogs that simplify ML concepts for others following a similar path.
 
-
+## [CLICK HERE](https://github.com/adityanarayan007/ml-portfolio/tree/main) TO RETURN TO MAIN PAGE
 ---
 
 🔖 Tags
