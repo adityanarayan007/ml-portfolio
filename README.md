@@ -6,7 +6,11 @@ Here, I’ll share weekly projects, experiments, and blogs as I build skills in 
 ---
 
 ## 📂 Projects
-0. List will be updated soon
+## Level 0 (Simple exploration in jupyter notebook):
+1. [Predicting Titanic survival with basic classification algorithms (without advanced Featire Engineering)](https://github.com/adityanarayan007/ml-portfolio/blob/main/week01/titanicExploration.ipynb)
+2. [Predicting Housing Prices with Simple Machine Learning](https://github.com/adityanarayan007/ml-portfolio/blob/main/week01/hosuingPrice.ipynb)
+3. [Determining heart disease based on heartrate, cholestrol level, chest pain and other parameters with machine learning](https://github.com/adityanarayan007/ml-portfolio/blob/main/week02/heartdiseaseprediction.ipynb)
+4. [Clustering Iris Flower dataset with Kmeans and again after dimensionality reduction using PCA](https://github.com/adityanarayan007/ml-portfolio/blob/main/week02/irisdata.ipynb)
 
 ---
 
