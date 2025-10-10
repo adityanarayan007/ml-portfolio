@@ -8,7 +8,7 @@ In Week 1, I focused on building foundations and applying them through **two cla
 ## 📂 Datasets Explored  
 1. **Classification Problem – Titanic Dataset**  
    - Predicting passenger survival based on features like age, class, and gender.  
-   - [Notebook → Titanic Classification](./titanicExploration.ipynb)  
+   - [Notebook → Titanic Classification](./titanicExploration.ipynb)   
 
 2. **Regression Problem – Housing Prices**  
    - Predicting house prices using numerical and categorical features.  
